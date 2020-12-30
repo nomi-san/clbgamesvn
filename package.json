@@ -15,6 +15,7 @@
   "private": true,
   "homepage": "https://github.com/nomi-san/clbgamesvn#readme",
   "dependencies": {
+    "axios": "^0.21.1",
     "metro4": "^4.4.3",
     "next": "^10.0.4",
     "react": "^17.0.1",
