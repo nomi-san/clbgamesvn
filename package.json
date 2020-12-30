@@ -2,9 +2,10 @@
   "name": "clbgamesvn",
   "version": "1.0.0",
   "description": "CLBGAMESVN.COM's hidden content unlocker",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
   },
   "repository": {
     "type": "git",
