@@ -1,0 +1,22 @@
+{
+  "name": "clbgamesvn",
+  "version": "1.0.0",
+  "description": "CLBGAMESVN.COM's hidden content unlocker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomi-san/clbgamesvn.git"
+  },
+  "keywords": [],
+  "author": "nomi-san",
+  "private": true,
+  "homepage": "https://github.com/nomi-san/clbgamesvn#readme",
+  "dependencies": {
+    "next": "^10.0.4",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
